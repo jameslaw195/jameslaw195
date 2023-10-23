@@ -1,5 +1,5 @@
 # Welcome to my page!
-<divalign="right">![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<div align="right">![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ![Headshot](./headshot.github.jpg)
 
