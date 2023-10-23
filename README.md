@@ -1,4 +1,5 @@
 # Welcome to my page!
+<divalign="right">![Visitor Count](https : //profile-counter.glitch.me/{jameslaw195}/count.svg)
 
 ![Headshot](./headshot.github.jpg)
 
